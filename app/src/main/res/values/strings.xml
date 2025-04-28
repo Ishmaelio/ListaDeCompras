@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">listacompras</string>
+    <string name="app_name">Lista de Compras</string>
+    <string name="add">Agregar</string>
+    <string name="delete">Eliminar</string>
+    <string name="new_item">Nuevo Elemento</string>
+    <string name="item_name">Nombre del Artículo</string>
+    <string name="cancel">Cancelar</string>
 </resources>
